@@ -181,5 +181,3 @@ The report includes:
 
 This project is submitted as part of an academic assignment and is intended for educational purposes only.
 ````
-
-Copy everything between the triple backticks and save as `README.md` in your project root.
